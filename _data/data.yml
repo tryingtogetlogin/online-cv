@@ -52,8 +52,8 @@ career-profile:
     summary: |
       10+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
       (includes ATG and Hybris framework usage), 4+ year of experience in Big Data stack (Hadoo, Spark, Cassandra, Kafka, Pig); 
-      professional, oriented on result with excellent communicative skills, easy-going, highly motivated with positive vision, 
-      can reach success in unfamiliar areas, taking responsibility and deviver quality features.
+      professional, result oriented with excellent communicative skills, easy-going, highly motivated with positive vision, 
+      can reach success in unfamiliar areas, take responsibility and deliver quality features.
 education:
     - degree: Engineer's degree at Artificial Intelligence
       university: Belaruski Dzjaržauny Universitet Informatyki i Radyjoelektroniki (BSUIR)
@@ -66,25 +66,31 @@ experiences:
       time: Jan 2018 - Present
       company: Ask Application
       details: |
-        Search services development
-          - search suggestions
-          - related search
-          - smart answers 
+        As a back-end engineer I worked on Search application, the highest revenue generating project 
+        for the company. I helped with developing search services (search suggestions, related search and smart answers) 
+        which are used by many teams in company. Our team was resposible for full services cycle from 
+        generating ideas up to delivering features to production.
+        As part of team I was also taking part in migration of all our services from
+        on-prem datacenters to Google cloud and then to AWS, including logging, monitoring and alerting setup and costs optimization.
+        Our technology landscape consists of multiple programming languages (Java, Kotlin, Clojure, Python), frameworks (PIG, Spark), 
+        web-services (Dropwizard), cloud providers (AWS, GCP).
+        As our latest task was migration to Kubernetes backed by AWS services. 
     - role: Senior Software Engineer
       time: Jul 2016 - Jan 2018
       company: EPAM Systems
       details: |
-        Network security domain, R&D team.
-          - Big data tool engineer;
-        Responsibilities:
-          - Implementation of batch streaming processing jobs with Hadoop and Spark;
-          - Optimization and trouble shooting of processing jobs;
-          - Development of cli and web utilities for Data Scientists;
-          - Support and integration of Maching Learning processes;
+        Network security domain, R&D team. I was working as Big data tool engineer and 
+        was responsible for implementation, support and troubleshooting of batch 
+        and stream processing jobs with Hadoop and Spark. 
+        Also another part of my work was related to the development of cli and web 
+        utilities for Data Scientists which help them to create ML models which I was
+        also integrating into data processing pipelines.
+    - role: Senior Software Engineer
       time: Jul 2013 - Jan 2016
+      company: EPAM Systems
       details: |
-        E-commerce solutions projects, work as back-end development, front-end development, 
-        low-level architecture design, application maintenance.During ATG practice work with: 
+        E-commerce solutions projects. I was working as back-end development, front-end development, 
+        low-level architecture design, application maintenance. During ATG practice work with: 
         checkout, payment systems integration, catalog import implementation, email subscriptions, 
         product reviews. Technologies: Java EE, ATG, JavaScript, HTML, CSS, WebLogic, SVN. 
     - role: Regular military service
@@ -96,7 +102,7 @@ experiences:
       time: May 2011 - Oct 2012
       company: EPAM Systems
       details: |
-        E-commerce solutions projects, work as back-end development, front-end development, low-level 
+        E-commerce solutions projects. I was working as back-end development, front-end development, low-level 
         architecture design, application maintenance. Responsibilities: ATG commerce, online-payments 
         integration, catalog data import implementation. Technologies: Java EE, ATG, JavaScript, HTML, 
         CSS, JBoss App Server.
@@ -104,30 +110,30 @@ experiences:
       time: Jul 2010 - May 2012
       company: G2X
       details: |
-        nsurance project, worked as back-end developer, responsible for bug fixing and change request 
+        Insurance project. Worked as back-end developer, responsible for bug fixing and change request 
         implementation. Technologies: Java EE, Spring Framework, .NET, WebSphere App Server. 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
