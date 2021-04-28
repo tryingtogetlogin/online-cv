@@ -52,14 +52,14 @@ career-profile:
     summary: |
       10+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
       (includes ATG and Hybris framework usage), 4+ year of experience in Big Data stack (Hadoo, Spark, Cassandra, Kafka, Pig); 
-      professional, result oriented with excellent communicative skills, easy-going, highly motivated with positive vision, 
+      professional, result oriented with excellent communicative skills, easy-going, highly motivated, with positive vision, 
       can reach success in unfamiliar areas, take responsibility and deliver quality features.
 education:
     - degree: Engineer's degree at Artificial Intelligence
       university: Belaruski Dzjaržauny Universitet Informatyki i Radyjoelektroniki (BSUIR)
       time: 2007 - 2012
       details: |
-        Geoinformation systems specialization  
+        Specialization: Geoinformation systems
 
 experiences:
     - role: Lead Software Engineer
@@ -68,23 +68,26 @@ experiences:
       details: |
         As a back-end engineer I worked on Search application, the highest revenue generating project 
         for the company. I helped with developing search services (search suggestions, related search and smart answers) 
-        which are used by many teams in company. Our team was resposible for full services cycle from 
-        generating ideas up to delivering features to production.
-        As part of team I was also taking part in migration of all our services from
-        on-prem datacenters to Google cloud and then to AWS, including logging, monitoring and alerting setup and costs optimization.
-        Our technology landscape consists of multiple programming languages (Java, Kotlin, Clojure, Python), frameworks (PIG, Spark), 
-        web-services (Dropwizard), cloud providers (AWS, GCP).
-        As our latest task was migration to Kubernetes backed by AWS services. 
+        which are used by many teams in company. 
+        
+        Our team was resposible for full services cycle from generating ideas up to delivering features to production.
+        As a part of the team I was also taking part in migration of all our services from on-prem datacenters to Google 
+        cloud and then to AWS, including logging, monitoring and alerting setup and costs optimization. As our latest 
+        task was migration to Kubernetes backed by AWS services.
+        
+        **Stack**: Java, Kotlin, Clojure, Python, Dropwizard, Spark, PIG, Salt, Jenkins, Rundeck, AWS,GCP, Docker, 
+        Kubernetes, Git
     - role: Senior Software Engineer
       time: Jul 2016 - Jan 2018
       company: EPAM Systems
       details: |
-        Network security domain, R&D team. I was working as Big data tool engineer and 
-        was responsible for implementation, support and troubleshooting of batch 
-        and stream processing jobs with Hadoop and Spark. 
-        Also another part of my work was related to the development of cli and web 
-        utilities for Data Scientists which help them to create ML models which I was
-        also integrating into data processing pipelines.
+        Network security domain, R&D team. I was working as Big data tool engineer and was responsible for implementation, 
+        support and troubleshooting of batch and stream processing jobs with Hadoop and Spark. 
+        
+        Also another part of my work was related to the development of cli and web utilities for Data Scientists which help 
+        them to create ML models which I was also integrating into data processing pipelines.
+        
+        **Stack**: Java, Python, Hadoop, Spark, Cassandra, Git, Docker
     - role: Senior Software Engineer
       time: Jul 2013 - Jan 2016
       company: EPAM Systems
@@ -92,7 +95,9 @@ experiences:
         E-commerce solutions projects. I was working as back-end developer, front-end developer, 
         low-level architecture design, application maintainer. During ATG practice work with: 
         checkout, payment systems integration, catalog import implementation, email subscriptions, 
-        product reviews. Technologies: Java EE, ATG, JavaScript, HTML, CSS, WebLogic, SVN. 
+        product reviews.
+        
+        **Stack**: Java EE, ATG, JavaScript, HTML, CSS, WebLogic, SVN. 
     - role: Regular military service
       time: Oct 2012 - Jul 2013
       company: Armed Forces
@@ -104,14 +109,17 @@ experiences:
       details: |
         E-commerce solutions projects. I was working as back-end developer, front-end developer, low-level 
         architecture design, application maintainer. Responsibilities: ATG commerce, online-payments 
-        integration, catalog data import implementation. Technologies: Java EE, ATG, JavaScript, HTML, 
-        CSS, JBoss App Server.
+        integration, catalog data import implementation.
+        
+        **Stack**: Java EE, ATG, JavaScript, HTML, CSS, JBoss App Server.
     - role: Junior Software Developer
       time: Jul 2010 - May 2012
       company: G2X
       details: |
         Insurance project. Worked as back-end developer, responsible for bug fixing and change request 
-        implementation. Technologies: Java EE, Spring Framework, .NET, WebSphere App Server. 
+        implementation. 
+        
+        **Stack**: Java EE, Spring Framework, .NET, WebSphere. 
 #projects:
 #    title: Projects
 #    intro: >
@@ -156,6 +164,9 @@ skills:
 
       - name: GCP (2 years)
         level: 70%
+        
+      - name: Spark (3 years)
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
