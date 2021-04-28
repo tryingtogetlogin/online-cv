@@ -75,7 +75,7 @@ experiences:
         cloud and then to AWS, including logging, monitoring and alerting setup and costs optimization. As our latest 
         task was migration to Kubernetes backed by AWS services.
         
-        **Stack**: Java, Kotlin, Clojure, Python, Dropwizard, Spark, PIG, Salt, Jenkins, Rundeck, AWS,GCP, Docker, 
+        **Stack**: Java, Kotlin, Clojure, Python, Dropwizard, Spark, PIG, Salt, Jenkins, Rundeck, AWS, GCP, Docker, 
         Kubernetes, Git
     - role: Senior Software Engineer
       time: Jul 2016 - Jan 2018
