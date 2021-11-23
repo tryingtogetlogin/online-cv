@@ -63,7 +63,7 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: June 2021 - Present
+      time: Jun 2021 - Present
       company: Licketysplit
       details: |
         In Licketysplit I'm in charge of back-end development for mobile applicatons with a help of Kotlin 
@@ -78,7 +78,7 @@ experiences:
         
         **Stack**: Kotlin, Spring Boot, GCP, Docker, Kubernetes, GitLab, Postgres, Firebase, Gradle
     - role: Senior Software Engineer
-      time: Jan 2018 - June 2021
+      time: Jan 2018 - Jun 2021
       company: Ask Application
       details: |
         As a back-end engineer I worked on Search application, the highest revenue generating project 
