@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      10+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
+      11+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
       (includes ATG and Hybris framework usage), 4+ year of experience in Big Data stack (Hadoop, Spark, Cassandra, Kafka, Pig); 
       professional, result oriented with excellent communicative skills, easy-going, highly motivated, with positive vision, 
       can reach success in unfamiliar areas, take responsibility and deliver quality features.
@@ -62,8 +62,22 @@ education:
         Specialization: Geoinformation systems
 
 experiences:
-    - role: Lead Software Engineer
-      time: Jan 2018 - Present
+    - role: Senior Software Engineer
+      time: June 2021 - Present
+      company: Licketysplit
+      details: |
+        In Licketysplit I'm as part of back-end team in charge of back-end development for mobile applicatons with a help of Kotlin 
+        and Spring Boot stack.
+        My responsibilities among other regular dev's work includes: collecting requirement, create architecture and implementing different 
+        aspects of back-end functionality like user authorization, search capabilities and third-party services integrations.
+        
+        During my work I was involved in build from scratch a set of application in different domains: cryptodraing and homecare. 
+        In each case our team started with intention to reuse some common parts from previous project, gain knowledge in new area
+        and get down to development.
+        
+        **Stack**: Kotlin, Spring Boot, GCP, Docker, Kubernetes, GitLab, Postgres, Firebase, Gradle
+    - role: Senior Software Engineer
+      time: Jan 2018 - June 2021
       company: Ask Application
       details: |
         As a back-end engineer I worked on Search application, the highest revenue generating project 
@@ -150,8 +164,8 @@ skills:
       - name: Java (10 years)
         level: 90%
 
-      - name: Kotlin (2 years)
-        level: 50%
+      - name: Kotlin (3 years)
+        level: 60%
 
       - name: Clojure (2 years)
         level: 50%
