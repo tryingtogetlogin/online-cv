@@ -63,21 +63,6 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: Jun 2021 - Present
-      company: Licketysplit
-      details: |
-        In Licketysplit I'm in charge of back-end development for mobile applicatons with a help of Kotlin 
-        and Spring Boot stack as part of back-end team.
-        
-        My responsibilities among other regular dev's work includes: collecting requirement, create architecture and implementing different 
-        aspects of back-end functionality like user authorization, search capabilities and third-party services integrations.
-        
-        During my work I was involved in build from scratch a set of application in different domains: cryptodraing and homecare. 
-        In each case our team started with intention to reuse some common parts from previous project, gain knowledge in new area
-        and get down to development.
-        
-        **Stack**: Kotlin, Spring Boot, GCP, Docker, Kubernetes, GitLab, Postgres, Firebase, Gradle
-    - role: Senior Software Engineer
       time: Jan 2018 - Jun 2021
       company: Ask Application
       details: |
