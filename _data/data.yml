@@ -65,18 +65,22 @@ education:
         Specialization: Geoinformation systems
 
 experiences:
-    - role: Senior Software Engineer
+    - role: Senior Software Engineer (Tech Lead)
       time: Jan 2022 - Present
       company: Raisin SE
       details: |
-        As a back-end engineer I design and implement solutions for Raisin's fintech platform
-        serving the US market. I maintain and continuously improve a complex platform application,
-        working on reliability, performance and the evolution of its architecture.
+        As a Tech Lead I design and implement solutions for Raisin's fintech platform
+        serving the US market. I am responsible for the quality and evolution of the platform,
+        promote best practices and mentor team members. Together with a dedicated team, I also
+        drive the adoption of AI tools so they are used securely and efficiently.
+    
+        I maintain and continuously improve a complex platform application, working on
+        reliability, performance and the further development of its architecture.
         I am actively involved in the migration from a monolithic application to microservices,
         applying Domain-Driven Design principles to define clear service boundaries. I also contribute
         to improving our CI/CD pipelines to make delivery faster and safer.
     
-        **Stack**: Java, .NET, Go, NodeJS, GraphQL, SpringBoot, Kubernetes, AWS
+        **Stack**: Java, .NET, Go, NodeJS, GraphQL, SpringBoot, Kubernetes, AWS, Cursor
     - role: Senior Software Engineer
       time: Jun 2021 - Dec 2021
       company: Licketysplit (start-up)
