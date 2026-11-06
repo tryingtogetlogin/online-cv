@@ -171,7 +171,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java (10 years)
+      - name: Java (15 years)
         level: 90%
 
       - name: Kotlin (3 years)
@@ -183,7 +183,7 @@ skills:
       - name: Python (3 years)
         level: 50%
 
-      - name: AWS (3 years)
+      - name: AWS (6 years)
         level: 70%
 
       - name: GCP (2 years)
