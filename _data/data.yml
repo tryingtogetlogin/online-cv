@@ -18,7 +18,6 @@ sidebar:
     linkedin: andrei-krauchanka
     xing:
     github: tryingtogetlogin
-    telegram: john_gult # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter:
@@ -35,6 +34,9 @@ sidebar:
 
       - idiom: English
         level: Professional
+        
+      - idiom: German
+        level: Novice
       
 
     interests:
@@ -50,8 +52,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      11+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
-      (includes ATG and Hybris framework usage), 4+ year of experience in Big Data stack (Hadoop, Spark, Cassandra, Kafka, Pig); 
+      16+ years of experience in IT: 1 year experience in insurance domain, 4+ years of hands-on experience in E-commerce domain 
+      (includes ATG and Hybris framework usage), 4+ year of experience in Big Data stack (Hadoop, Spark, Cassandra, Kafka, Pig), 4+ years of
+      experience in FinTech sector; 
       professional, result oriented with excellent communicative skills, easy-going, highly motivated, with positive vision, 
       can reach success in unfamiliar areas, take responsibility and deliver quality features.
 education:
@@ -62,6 +65,27 @@ education:
         Specialization: Geoinformation systems
 
 experiences:
+    - role: Senior Software Engineer
+      time: Jan 2022 - Present
+      company: Raisin SE
+      details: |
+        As a back-end engineer I design and implement solutions for Raisin's fintech platform
+        serving the US market. I maintain and continuously improve a complex platform application,
+        working on reliability, performance and the evolution of its architecture.
+        I am actively involved in the migration from a monolithic application to microservices,
+        applying Domain-Driven Design principles to define clear service boundaries. I also contribute
+        to improving our CI/CD pipelines to make delivery faster and safer.
+    
+        **Stack**: Java, .NET, Go, NodeJS, GraphQL, SpringBoot, Kubernetes, AWS
+    - role: Senior Software Engineer
+      time: Jun 2021 - Dec 2021
+      company: Licketysplit (start-up)
+      details: |
+        As a back-end engineer I developed the backend for the company's mobile services.
+        I was responsible for both the design and implementation of new features, from shaping
+        the technical solution through to delivering it to production.
+    
+        **Stack**: Java, Spring Boot, Firebase
     - role: Senior Software Engineer
       time: Jan 2018 - Jun 2021
       company: Ask Application
